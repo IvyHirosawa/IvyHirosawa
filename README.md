@@ -20,8 +20,8 @@ ivy.hirosawa@escola.pr.gov.br
 
 ### *MEUS PROJETOS* 
 
-![](https://editor.p5js.org/IvyHirosawa/full/r9ln-SF9c)
-![](https://editor.p5js.org/IvyHirosawa/full/nx8DGpWJE)
-![](https://editor.p5js.org/IvyHirosawa/full/tu0yPX3mb)
-![](https://editor.p5js.org/IvyHirosawa/full/_eb-6-_52)
+https://editor.p5js.org/IvyHirosawa/full/r9ln-SF9c
+https://editor.p5js.org/IvyHirosawa/full/nx8DGpWJE
+https://editor.p5js.org/IvyHirosawa/full/tu0yPX3mb
+https://editor.p5js.org/IvyHirosawa/full/_eb-6-_52
 
