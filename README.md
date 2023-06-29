@@ -20,11 +20,11 @@ ivy.hirosawa@escola.pr.gov.br
 
 ### *MEUS PROJETOS* 
 
-Barbearia Alura - https://editor.p5js.org/IvyHirosawa/full/r9ln-SF9c
+[Barbearia Alura](https://editor.p5js.org/IvyHirosawa/full/r9ln-SF9c)
 
-Pong Ping - https://editor.p5js.org/IvyHirosawa/full/nx8DGpWJE
+[Pong Ping ](https://editor.p5js.org/IvyHirosawa/full/nx8DGpWJE)
 
-Minhoca - https://editor.p5js.org/IvyHirosawa/full/tu0yPX3mb
+[Minhoca](https://editor.p5js.org/IvyHirosawa/full/tu0yPX3mb)
 
-Palavra - https://editor.p5js.org/IvyHirosawa/full/_eb-6-_52
+[Palavra](https://editor.p5js.org/IvyHirosawa/full/_eb-6-_52)
 
